@@ -8,6 +8,8 @@
 - 😵‍💫 Every day working on myself.
 - 🧑🏻‍💻 I try to keep calm and keep on typing.
 - 📫 How to reach me: fomenkovlad93@gmail.com
+- 💼 My [Portfolio](https://portfolio-vf-sm.netlify.app/)
+
 ##
 <p align="center">
   My interests: <br>
@@ -18,8 +20,7 @@
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"> -->
-  <!-- src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
 </p>
 
 ##
